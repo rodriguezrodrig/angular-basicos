@@ -3,7 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppComponent } from './app.component';
 import { ContadorModule } from './contador/contador.module';
-import { HeroesModule } from './heroes/herores.module';
+import { HeroesModule } from './heroes/heroes.module';
 
 @NgModule({
   declarations: [
